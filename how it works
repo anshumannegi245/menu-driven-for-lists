@@ -1,0 +1,7 @@
+How it works:
+display_menu function: Displays the available options to the user.
+add_item function: Adds an item to the list.
+remove_item function: Removes an item from the list if it exists.
+view_list function: Displays the contents of the list.
+search_item function: Checks if an item is present in the list.
+main function: This is where the main loop runs, taking user input and calling the appropriate function based on the choice.
